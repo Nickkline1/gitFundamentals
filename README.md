@@ -5,14 +5,14 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commands
 - [Git Config](./Commands/config.md)
-- [Git init](./commands/init.md)
+- [Git init](./Commands/init.md)
 - [Git add](./Commands/Add.md)
-- [Git Commit](./commands/commit.md)
-- [Git Remote](./commands/remote.md)
-- [Git Push](./commands/push.md)
-- [Git Pull](./commands/pull.md)
-- [Git Status](.commands/status.md)
-- [Git Clone](.commands/clone.md)
+- [Git Commit](./Commands/commit.md)
+- [Git Remote](./Commands/remote.md)
+- [Git Push](./Commands/push.md)
+- [Git Pull](./Commands/pull.md)
+- [Git Status](.Commands/status.md)
+- [Git Clone](.Commands/clone.md)
 
 
 ## External Resources
